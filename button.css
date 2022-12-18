@@ -1,0 +1,35 @@
+.container {
+    text-align: center;
+    display: block;
+    padding: 30px;
+}
+.button a {
+    text-decoration: none;
+    color: black
+
+}
+
+.button1 {
+    border: 1px solid white;
+    padding: 20px 50px;
+    font-size: 25px;
+    color: black;
+    margin: 30px;
+    
+}
+.container a {
+    outline: none;
+    padding: 15px 50px;
+    font-size: 25px;
+    color: black;
+}
+.button1:hover {
+    border: 1px solid black;
+}
+.button2:hover {
+    border: 1px solid black;
+}
+.container {
+    float: right;
+}
+

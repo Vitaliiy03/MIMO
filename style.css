@@ -1,0 +1,723 @@
+
+
+
+
+.blocks11 {
+    
+    float: right
+}
+
+.blocks11 img{
+    
+    height: 20px;
+    width: auto
+}
+
+
+.blocks11 a {
+    margin-right: 15px;
+    text-decoration: none;
+    font-size: 18px;
+    padding-top: 60px;
+    color: darkgray;
+    padding-bottom: 55px;
+    
+}
+}
+
+
+p.border1 {
+    
+    color: #DCDCDC;
+    
+}
+
+
+.border1 {
+    
+       float: right;
+}
+
+
+
+.text10 a {
+    
+    outline: none;
+    border: none;
+    text-decoration:none;
+    color: darkgray;
+}
+
+.text10 {
+    font-size: 18px;
+    padding-top: 60px;
+    color: darkgray;
+    padding-bottom: 55px;
+}
+
+.text9 {
+    color: darkslategrey;
+    font-size: 21px;
+    padding-top: 15px;
+}
+
+.text-block9 {
+    
+    font-family: Gill Sans;
+    font-weight: 550;
+    font-size: 20px;
+    color: darkslategrey;
+}
+
+.block9 {
+    
+    float: left;
+}
+.block9 img {
+    padding-right: 50px;
+    width: 100px;
+    height: 100px;
+    padding-bottom: 120px
+}
+
+.container9 {
+    
+    background: white;
+    padding-left: 180px;
+    padding-right: 180px;
+    padding-bottom: 300px;
+}
+
+
+
+.block-photo1 {
+    
+    display: inline-block;
+    margin-right: 4%;
+    width: 30%;
+}
+
+.photon img {
+    text-align: center;
+    width: 100%;
+    height: auto;
+}
+
+.block-photo1:nth-child(3) {
+    
+    margin-right: 0;
+}
+
+.block-text8 {
+    font-size: 25px;
+    font-family: Georgia;
+    padding-top: 30px;
+    color: darkslategrey;
+}
+
+
+
+.text8 {
+    
+    font-size: 18px;
+    padding-top: 60px;
+    color: darkgray;
+    padding-bottom: 40px;
+}
+
+
+.container8 {
+    
+    background: #F5F5F5;#F5F5F5;
+    padding-left: 180px;
+    padding-right: 180px;
+    padding-bottom: 110px;
+}
+
+
+.block6 a {
+    
+    margin-right: 15px;
+    text-decoration: none;
+    color: black;
+    font-size: 21px;
+    
+}
+.block6 {
+    
+    float: right
+}
+
+.container7 {
+    
+    padding-left: 180px;
+    padding-right: 180px;
+    padding-bottom: 110px;
+}
+
+
+.block6 img{
+    
+    width: 20px;
+    height: auto;
+}
+
+.textky1 {
+    
+    color: darkslategrey;
+    font-size: 21px;
+    padding-bottom: 70px;
+}
+.textky {
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-left: 40px;
+    padding-right: 40px;
+    color: darkslategrey;
+    font-size: 18px
+}
+
+.container6 {
+    
+    padding-left: 180px;
+    padding-right: 180px;
+}
+
+.container2 {
+    padding-left: 180px;
+    padding-right: 180px;
+
+}
+
+.photog {
+    padding-bottom: 40px;
+    font-size: 25px;
+    font-family: Trebuchet;
+    color: darkgray;
+}
+div.title {
+    font-size: 50px;
+    font-family: Luminari;
+    color: darkslategray;
+}
+
+div.font {
+    font-family: Georgia;
+    font-size: 37px;
+    font-family: Luminari;
+    color:dimgrey;
+}
+
+p.font1 {
+    font-size: 21px;
+    color: darkslategrey;
+}
+
+.container {
+    padding: 90px
+}
+
+div.left {
+       float: left;
+
+}
+
+div.right {
+     float: right;
+}
+.photoga {
+    padding-top: 70px;
+    font-size: 25px;
+    font-family: Trebuchet;
+    color: darkgray;
+}
+
+header {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+header div:first-child {
+    float: left
+}
+
+header div:last-child {
+     float: right;
+    
+}
+.title {
+    font-family: Helvetica;
+    font-size: 30px;
+}
+
+h1 {
+    font-weight: normal;
+}
+.center-img {
+  text-align: center;
+}
+img{
+    height:900px;
+    width: 1700px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0 auto;
+    padding: 0;
+    overflow: hidden;
+    text-align: right;
+}
+
+li {
+  float: left;
+}
+
+li a {
+    
+    display: block;
+    color: grey;
+    text-align: right;
+    padding: 30px;
+    text-decoration: none;
+    font-size: 25px;   
+    
+}
+h2 {
+    color: #C0C0C0;
+    font-size: 16px;
+    font-weight: normal
+    padding-left: 120px;
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
+li a.button {
+    padding: 15px 25px;
+    font-size: 24px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color: grey;
+    background-color: #FFFFFF;
+    border: none;
+    border-radius: 15px;
+}
+
+.button:hover {
+    background-color: #DCDCDC
+}
+
+
+li a.button1 {
+    padding: 15px 25px;
+    font-size: 24px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color: grey;
+    background-color: #FFFFFF;
+    border: none;
+    border-radius: 15px;
+}
+
+.button1:hover {background-color: #DCDCDC}
+
+
+
+li a.button2 {
+    padding: 15px 25px;
+    font-size: 24px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color: grey;
+    background-color: #FFFFFF;
+    border: none;
+    border-radius: 15px;
+}
+
+.button2:hover {
+    background-color: #DCDCDC
+
+}
+
+li a.button3 {
+    padding: 15px 25px;
+    font-size: 24px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color: grey;
+    background-color: #FFFFFF;
+    border: none;
+    border-radius: 15px;
+}
+
+.button3:hover {
+    background-color: #DCDCDC
+    
+}
+
+.block {
+    display: inline-block;
+    width: 45%;
+    
+}
+
+.block:nth-child(odd) {
+    margin-right: 9%;
+}
+
+.block-photo img {
+    max-width: 100%;
+    height: auto;
+    padding-top: 140px
+}
+
+.block-category {
+    color: gray;
+    padding-top: 50px;
+    
+}
+
+.block-title {
+    font-size: 35px;
+    padding-top: 50px;
+    font-family: Georgia;
+    padding-bottom: 50px;
+    color: dimgrey
+    
+}
+
+.block-text {
+    color: darkslategrey;
+    font-size: 21px;
+    padding-top: 50px;
+}
+
+.container3 {
+    padding-top: 130px;
+    padding-left: 180px;
+    padding-right: 180px;
+    padding-bottom: 130px;
+    background: #F5F5F5;
+}
+
+.container3-title {
+    
+    text-align: center;
+    color: dimgrey;
+    font-size: 35px;
+    margin-bottom: 80px;
+}
+
+.container3 form {
+    width: 400px;
+    background: ;
+    margin: 0 auto;
+    border-bottom: 2px solid gray;
+    padding-bottom: 10px;
+      
+    
+}
+
+.container3 input {
+    
+    background-color: transparent;
+    width: 350px
+}
+.container3 button {
+    
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    
+}
+
+.container3 button img {
+    
+    width: 30px;
+    height: auto;
+    
+}
+
+.container5 {
+    
+    text-align: center;
+    background-color: white;
+    padding-bottom: 130px;
+    
+}
+.container5 button {
+    
+    width: 200px;
+    height: 75px;
+    background: white;
+    border-color: darkgrey;
+    font-size: 25px;
+}
+
+.block-text1 {
+    font-size: 35px;
+    text-align: center;
+    padding-bottom: 80px;
+}
+
+
+input, textarea {
+    outline: none;
+    border: none;
+    font-size: 22px;
+}
+.block-email {
+    text-align: center;
+    font-size: 10px;
+    color: darkgrey;
+}
+
+.block-text3 {
+    
+    color: darkslategrey;
+    font-size: 21px;
+    padding-bottom: 140px;
+}
+
+.block-text2 {
+    
+    color: darkslategrey;
+    font-size: 21px;
+    padding-bottom: 140px;
+    
+}
+
+.container4 {
+    padding-left: 180px;
+    padding-right: 180px;
+    display: inline-block;
+}
+.block-text5 {
+    color: darkslategrey;
+    font-size: 21px;
+    padding-bottom: 140px;
+}
+
+.container5 {
+    padding-left: 180px;
+    padding-right: 180px;
+}
+button1 {
+    border: 1px solid; 
+    background:;
+    font-size: 19px;
+    padding: 15px 50px;
+    color: ;
+    margin: 0 auto;
+    display: block;
+    font-family: sans-serif;
+    
+   }
+.block3 {
+    padding-bottom: 130px;
+
+}
+
+footer {
+    padding: 30px 180px;
+    background: #F5F5F5;
+    overflow: auto;
+
+    
+}
+
+footer .block4 {
+    
+    float: left;
+}
+
+footer .block5 {
+    
+    float: right;
+}
+
+footer img{
+    
+    height: 20px;
+    width: auto
+}
+
+footer a {
+    
+    margin-right: 15px;
+    text-decoration: none;
+    color: black;
+    font-size: 21px;
+}
+
+.block5 {
+    font-size: 21px;
+}
+
+.load {
+    
+    border: 1px solid black; 
+    padding: 15px 50px;
+    font-size: 25px;
+    color: black;
+    text-decoration: none;
+    
+}
+
+.load:hover {
+    
+    background-color: lightgray;
+    
+}
+
+/* COMMENTS */
+.comments {
+  
+}
+.comment {    
+    overflow: auto;
+    margin-bottom: 60px;
+}
+.comment-left {
+    width: 100px;
+    float: left;
+    margin-right: 50px;
+}
+.comment-right {
+    float: left;
+    width: calc(100% - 150px);
+}
+.comment-left img {
+    width: 100%;
+    height: auto;     
+}
+.comment-author {
+    font-family: Gill Sans;
+    font-weight: 550;
+    font-size: 20px;
+    color: darkslategrey;
+    padding-top: 10px;
+    margin-bottom: 15px;
+}
+.comment-text {
+    color: darkslategrey;
+    font-size: 21px;
+    margin-bottom: 30px;
+}
+.comment-buttons a {
+    
+    font-size: 18px;
+    color: darkgray;
+    outline: none;
+    border: none;
+    text-decoration:none;
+    color: darkgray;
+}
+.comment-form {
+    
+    display: block;
+    width: 96%;
+    border: 1px solid #D3D3D3;
+    padding: 22px;
+    border-radius: 6px;
+}
+.container10 {
+    padding-left: 180px;
+    padding-right: 180px;
+    padding-bottom: 3200px;
+}
+.block-left3 {
+    float: left;
+}
+.block-right4 {
+    float: right;
+}
+
+.block-right4 {
+    width:30%;
+    height: auto;
+}
+.block-left3 {
+    width: 60%;
+    height: auto;
+}
+.photo-right img {
+    width: 100%;
+    height: auto;
+}
+.about {
+   
+    font-size: 30px;
+    color: darkslategrey;
+    padding-top: 30px;
+}
+.photo-left img {
+    width: 100%;
+    height: auto;
+    padding-top: 60px;
+    
+}
+.text-right {
+    padding-top: 10px;
+    color: darkslategrey;
+    font-size: 21px;
+}
+.photo-right21 a {
+    
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+.photo-right1 img {
+    width: 22px;
+    height: auto;
+    padding-top: 25px;
+}
+.photo-right1 {
+    
+    display: inline-block;
+}
+.photog-right {
+    padding-left: px;
+    padding-top: 90px;
+    padding-bottom: 40px;
+    font-size: 20px;
+    font-family: Trebuchet;
+    color: darkgray;
+}
+.right-point a {
+    text-decoration: none;
+    color: darkgray;
+}
+.right-text {
+    padding-bottom: 20px;
+    color: darkslategrey;
+    font-size: 21px
+}
+.point {
+    padding-right: 30px;
+    color: darkgray;
+    font-size: 21px;
+}
+.right-comments {
+    padding-left: 40px;
+    color: darkgray;
+}
+.right-comments {
+   padding-bottom: 20px; 
+}
+.photo-banner img {
+    width: 100%;
+    height: auto;
+    padding-top: 50px;
+}
+.textky-left {
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-left: 40px;
+    padding-right: 40px;
+    color: darkslategrey;
+    font-size: 18px
+}
